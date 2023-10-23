@@ -1,0 +1,21 @@
+body{
+    background-color: green;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.titulo{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.foto{
+    height: 750px;
+    width: 750px;
+}
